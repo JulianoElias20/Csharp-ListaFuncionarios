@@ -1,0 +1,14 @@
+C:\Users\julia\source\repos\ListaRegistrandoFuncionarios\ListaRegistrandoFuncionarios\bin\Debug\net8.0\ListaRegistrandoFuncionarios.exe
+C:\Users\julia\source\repos\ListaRegistrandoFuncionarios\ListaRegistrandoFuncionarios\bin\Debug\net8.0\ListaRegistrandoFuncionarios.deps.json
+C:\Users\julia\source\repos\ListaRegistrandoFuncionarios\ListaRegistrandoFuncionarios\bin\Debug\net8.0\ListaRegistrandoFuncionarios.runtimeconfig.json
+C:\Users\julia\source\repos\ListaRegistrandoFuncionarios\ListaRegistrandoFuncionarios\bin\Debug\net8.0\ListaRegistrandoFuncionarios.dll
+C:\Users\julia\source\repos\ListaRegistrandoFuncionarios\ListaRegistrandoFuncionarios\bin\Debug\net8.0\ListaRegistrandoFuncionarios.pdb
+C:\Users\julia\source\repos\ListaRegistrandoFuncionarios\ListaRegistrandoFuncionarios\obj\Debug\net8.0\ListaRegistrandoFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\ListaRegistrandoFuncionarios\ListaRegistrandoFuncionarios\obj\Debug\net8.0\ListaRegistrandoFuncionarios.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\ListaRegistrandoFuncionarios\ListaRegistrandoFuncionarios\obj\Debug\net8.0\ListaRegistrandoFuncionarios.AssemblyInfo.cs
+C:\Users\julia\source\repos\ListaRegistrandoFuncionarios\ListaRegistrandoFuncionarios\obj\Debug\net8.0\ListaRegistrandoFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\ListaRegistrandoFuncionarios\ListaRegistrandoFuncionarios\obj\Debug\net8.0\ListaRegistrandoFuncionarios.dll
+C:\Users\julia\source\repos\ListaRegistrandoFuncionarios\ListaRegistrandoFuncionarios\obj\Debug\net8.0\refint\ListaRegistrandoFuncionarios.dll
+C:\Users\julia\source\repos\ListaRegistrandoFuncionarios\ListaRegistrandoFuncionarios\obj\Debug\net8.0\ListaRegistrandoFuncionarios.pdb
+C:\Users\julia\source\repos\ListaRegistrandoFuncionarios\ListaRegistrandoFuncionarios\obj\Debug\net8.0\ListaRegistrandoFuncionarios.genruntimeconfig.cache
+C:\Users\julia\source\repos\ListaRegistrandoFuncionarios\ListaRegistrandoFuncionarios\obj\Debug\net8.0\ref\ListaRegistrandoFuncionarios.dll
